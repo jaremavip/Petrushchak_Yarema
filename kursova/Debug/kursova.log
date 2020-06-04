@@ -1,0 +1,9 @@
+﻿  admin.cpp
+  func.cpp
+  main.cpp
+  output.cpp
+  taxi.cpp
+D:\YandexDisk\Visual Studio 2019\source\kursova\kursova\taxi.cpp(27,42): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  users.cpp
+  Создание кода...
+  kursova.vcxproj -> D:\YandexDisk\Visual Studio 2019\source\kursova\Debug\kursova.exe
